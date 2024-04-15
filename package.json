@@ -1,0 +1,48 @@
+{
+  "name": "quiz-generator",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@headlessui/react": "^1.7.18",
+    "@hookform/resolvers": "^3.3.2",
+    "@types/node": "20.8.9",
+    "@types/react": "18.2.33",
+    "@types/react-dom": "18.2.14",
+    "autoprefixer": "10.4.16",
+    "bcrypt": "^5.1.1",
+    "eslint": "8.52.0",
+    "eslint-config-next": "14.0.0",
+    "file-saver": "^2.0.5",
+    "framer-motion": "^10.16.4",
+    "jsonwebtoken": "^9.0.2",
+    "jspdf": "^2.5.1",
+    "mongoose": "^7.6.3",
+    "next": "14.0.0",
+    "openai": "^4.24.7",
+    "pdf-lib": "^1.17.1",
+    "postcss": "8.4.31",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.47.0",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.11.0",
+    "stripe": "^14.3.0",
+    "tailwindcss": "3.3.5",
+    "typescript": "5.2.2",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.1",
+    "@types/file-saver": "^2.0.6",
+    "@types/jsonwebtoken": "^9.0.4"
+  }
+}
